@@ -1,0 +1,2 @@
+# hellomod
+Hello Module Golang
